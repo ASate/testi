@@ -1,2 +1,4 @@
 password
-all windows password
+winlogin
+windows server login
+
